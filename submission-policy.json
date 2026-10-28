@@ -1,0 +1,11 @@
+{
+  "assignment": "assignment15",
+  "allowed": [
+    "assignment15.py"
+  ],
+  "tests": [
+    "test.py",
+    "test_submission.py"
+  ],
+  "message": "Complete assignment 15"
+}
